@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'MNPP Control' target in the 'MNPP Control' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
